@@ -2,10 +2,10 @@
 Octarine task
 site designed for adding films
 
-#Instalation
+# Instalation
 
-#Features
+# Features
 Multipaging
 different approaches
 
-#Examples
+# Examples
